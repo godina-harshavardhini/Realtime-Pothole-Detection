@@ -1,0 +1,15 @@
+artifact_uri: /Users/harshavardhini/Downloads/Pothole-Detection-Pothole-Detection-using-python-and-deep-learning-main/runs/mlflow/803321002200577380/5c2df449695442bd8396eb61de33e969/artifacts
+end_time: 1770575616703
+entry_point_name: ''
+experiment_id: '803321002200577380'
+lifecycle_stage: active
+run_id: 5c2df449695442bd8396eb61de33e969
+run_name: train4
+run_uuid: 5c2df449695442bd8396eb61de33e969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770574360451
+status: 3
+tags: []
+user_id: harshavardhini
